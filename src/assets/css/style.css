@@ -241,18 +241,18 @@ body {
   background-size: contain;
 }
 .hero-card-t-one {
-  background-image: url(../img/hero-card-one.png);
+  background-image: url(../../../public/images/hero-card-one.png);
   scale: 1;
   z-index: 3;
 }
 .hero-card-t-two {
-  background-image: url(../img/hero-card-two.png);
+  background-image: url(../../../public/images/hero-card-two.png);
   scale: 0.9;
   z-index: 2;
   left: 50px;
 }
 .hero-card-t-three {
-  background-image: url(../img/hero-card-three.png);
+  background-image: url(../../../public/images/hero-card-three.png);
   scale: 0.8;
   z-index: 1;
   left: 100px;
@@ -496,7 +496,7 @@ button:hover .icon {
 	}
 }
 .bottom-right-img-one {
-  background: url("../img/hero-card-one.png") no-repeat;
+  background: url("../../../public/images/hero-card-one.png") no-repeat;
   background-size: contain;
   height: 300px;
   width: 300px;
@@ -506,7 +506,7 @@ button:hover .icon {
   right: 0px;
 }
 .bottom-right-img-two {
-  background: url("../img/hero-card-two.png") no-repeat;
+  background: url("../../../public/images/hero-card-two.png") no-repeat;
   background-size: contain;
   height: 240px;
   width: 240px;
@@ -516,7 +516,7 @@ button:hover .icon {
   right: 0px;
 }
 .bottom-right-img-three {
-  background: url("../img/hero-card-three.png") no-repeat;
+  background: url("../../../public/images/hero-card-three.png") no-repeat;
   background-size: contain;
   height: 200px;
   width: 200px;
