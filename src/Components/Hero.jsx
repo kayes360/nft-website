@@ -1,8 +1,8 @@
 import React, { useEffect, useRef } from "react";
-import HeroCardProfile from "../assets/img/hero-card-profile.png";
+import HeroCardProfile from "../../public/images/hero-card-profile.png";
 import CountUp from "react-countup";
-import CurvedTextWithIcon from "../assets/img/circle-text-with-icon.png";
-import CurvedText from "../assets/img/circle-text.png";
+import CurvedTextWithIcon from "../../public/images/circle-text-with-icon.png";
+import CurvedText from "../../public/images/circle-text.png";
 
 export default function Hero() {
   //  const circularDiv = useRef();

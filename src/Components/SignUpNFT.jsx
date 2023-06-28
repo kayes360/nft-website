@@ -1,6 +1,6 @@
 import React from 'react'
-import HeroCardProfile from "../assets/img/hero-card-profile.png"
-import ProfileTwo from "../assets/img/profile-two.png"
+import HeroCardProfile from "../../public/images/hero-card-profile.png"
+import ProfileTwo from "../../public/images/profile-two.png"
 
 export default function SignUpNFT() {
   return (

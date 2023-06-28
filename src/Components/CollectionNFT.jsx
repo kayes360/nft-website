@@ -1,15 +1,15 @@
 import React from 'react'
 
-import SectionCardSampleOne from "../assets/img/section-card-sample-one.png"
-import HeroCardOne from "../assets/img/hero-card-one.png"
-import HeroCardTwo from "../assets/img/hero-card-two.png"
-import HeroCardThree from "../assets/img/hero-card-three.png"
-import ThumbOne from "../assets/img/thumb-one.png"
-import ThumbTwo from "../assets/img/thumb-two.png"
-import HeroCardProfile from "../assets/img/hero-card-profile.png"
-import MiniCardSampleOne from "../assets/img/mini-card-sample-one.png"
-import MiniCardSampleTwo from "../assets/img/mini-card-sample-two.png"
-import MiniCardSampleThree from "../assets/img/mini-card-sample-three.png"
+import SectionCardSampleOne from "../../public/images/section-card-sample-one.png"
+import HeroCardOne from "../../public/images/hero-card-one.png"
+import HeroCardTwo from "../../public/images/hero-card-two.png"
+import HeroCardThree from "../../public/images/hero-card-three.png"
+import ThumbOne from "../../public/images/thumb-one.png"
+import ThumbTwo from "../../public/images/thumb-two.png"
+import HeroCardProfile from "../../public/images/hero-card-profile.png"
+import MiniCardSampleOne from "../../public/images/mini-card-sample-one.png"
+import MiniCardSampleTwo from "../../public/images/mini-card-sample-two.png"
+import MiniCardSampleThree from "../../public/images/mini-card-sample-three.png"
 
 export default function CollectionNFT() {
   return (

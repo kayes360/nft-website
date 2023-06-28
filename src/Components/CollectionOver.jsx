@@ -1,14 +1,14 @@
 import React from 'react'
-import SectionCardSampleOne from "../assets/img/section-card-sample-one.png"
-import HeroCardProfile from "../assets/img/hero-card-profile.png"
-import MiniCardSampleOne from "../assets/img/mini-card-sample-one.png"
-import MiniCardSampleTwo from "../assets/img/mini-card-sample-two.png"
-import MiniCardSampleThree from "../assets/img/mini-card-sample-three.png"
-import SingleListSampleOne from "../assets/img/single-list-sample-one.png"
-import SingleListSampleTwo from "../assets/img/single-list-sample-two.png"
-import SingleListSampleThree from "../assets/img/single-list-sample-three.png"
-import SingleListSampleFour from "../assets/img/single-list-sample-four.png"
-import SingleListSampleFive from "../assets/img/single-list-sample-five.png"
+import SectionCardSampleOne from "../../public/images/section-card-sample-one.png"
+import HeroCardProfile from "../../public/images/hero-card-profile.png"
+import MiniCardSampleOne from "../../public/images/mini-card-sample-one.png"
+import MiniCardSampleTwo from "../../public/images/mini-card-sample-two.png"
+import MiniCardSampleThree from "../../public/images/mini-card-sample-three.png"
+import SingleListSampleOne from "../../public/images/single-list-sample-one.png"
+import SingleListSampleTwo from "../../public/images/single-list-sample-two.png"
+import SingleListSampleThree from "../../public/images/single-list-sample-three.png"
+import SingleListSampleFour from "../../public/images/single-list-sample-four.png"
+import SingleListSampleFive from "../../public/images/single-list-sample-five.png"
 
 export default function CollectionOver() {
   return (
