@@ -197,6 +197,19 @@ body {
 .search-bar .input-group-text {
   background-color: unset;
 }
+.search-bar input { 
+   transition: none;
+}
+.search-bar input:focus {
+   border: 2px solid var(--dark-blue);
+   box-shadow: unset; 
+}
+.search-bar input:focus~.input-group-text{
+   border: 2px solid var(--dark-blue);
+   border-left-width: 0;
+   box-shadow: unset; 
+} 
+
 /* Header End */
 
 /* Hero Section */
