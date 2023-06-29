@@ -408,10 +408,23 @@ button:hover .icon {
 .section-four-main-img-wrapper {
   height: 265.85px;
   width: 272.27px;
+  cursor: pointer;
+}
+.section-four-main-img-wrapper:hover{
+  /* box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; */
+  /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+   */
+   /* box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px; */
 }
 .section-four-main-img-wrapper img {
   height: 100%;
   width: 100%;
+  transition: all 0.2s linear;
+}
+.section-four-main-img-wrapper img:hover {
+  height: 100%;
+  width: 100%;
+  box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
 }
 .section-four-card-title {
   font-size: 20pxz;
@@ -423,6 +436,11 @@ button:hover .icon {
 .section-four-thumb-img-wrapper img {
   height: 100%;
   width: 100%;
+  cursor: pointer;
+  transition: all 0.2s linear;
+}
+.section-four-thumb-img-wrapper img:hover {
+  scale: 1.09;
 }
 @media screen and (min-width: 1200px) and (max-width: 1399px) {
   .section-four-main-img-wrapper {

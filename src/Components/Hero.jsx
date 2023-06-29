@@ -5,20 +5,7 @@ import CurvedTextWithIcon from "../../public/images/circle-text-with-icon.png";
 import CurvedText from "../../public/images/circle-text.png";
 
 export default function Hero() {
-  //  const circularDiv = useRef();
-
-  //  useEffect(() => {
-  //   console.log(circularDiv.current)
-  //    const circularInputText = circularDiv.current.innerText;
-  //      let circularOutputText = circularInputText
-  //        .split("")
-  //        .map(
-  //          (char, i) =>
-  //            `<span style = "transform: rotate(${i * 5}deg)">${char} </span>`
-  //        )
-  //        .join("");
-  //        circularDiv.current.innerHTML = circularOutputText;
-  //   }, [])
+   
 
   return (
     <section>
